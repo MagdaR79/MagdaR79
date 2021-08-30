@@ -1,4 +1,4 @@
-# Hi, I'm Magda. 
+## Hi, I'm Magda. 
 Beginner in ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) , 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white), 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
