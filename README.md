@@ -8,5 +8,5 @@ Using ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=fla
 
 Languages: 🇵🇱 🇬🇧
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=magdar79)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdar79)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=magdar79&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdar79&theme=dracula)
